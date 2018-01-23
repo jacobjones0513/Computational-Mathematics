@@ -1,2 +1,2 @@
 # Computational-Mathematics
-A selection of programs that employ basic techniques of computational mathematics that include; matrix computations, data fitting techniques, image and signal processing, optimization, quadrature, initial value problems, computational efficiency, and visualization. These design of these programs developed in served to enhance my critical thinking and problem solving skills using the MATLAB software package.
+A selection of programs that employ basic techniques of computational mathematics that include; matrix computations, data fitting techniques, image and signal processing, optimization, quadrature, initial value problems, computational efficiency, and visualization. 
